@@ -157,7 +157,7 @@ inventory-replenishment-dashboard/
 ```
 ## Dashboard Preview
 
-![Inventory Replenishment Dashboard](tableau/dashboard_screenshot.png)
+![Inventory Replenishment Dashboard](tableau/Inventory Replenishment & Stockout Risk Dashboard.png)
 
 ## KPI Definitions
 
