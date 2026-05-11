@@ -155,9 +155,6 @@ inventory-replenishment-dashboard/
 ├── .gitignore
 └── README.md
 ```
-## Dashboard Preview
-
-![Inventory Replenishment Dashboard](tableau/inventory_replenishment_dashboard.png)
 
 ## KPI Definitions
 
@@ -347,6 +344,10 @@ The method helps answer:
 
 This matters because not every product deserves the same level of monitoring. A high-revenue product with inventory risk should usually receive more attention than a low-revenue product with the same risk level.
 
+---
+## Dashboard Preview
+
+![Inventory Replenishment Dashboard](tableau/inventory_replenishment_dashboard.png)
 ---
 
 ## Dashboard Design
