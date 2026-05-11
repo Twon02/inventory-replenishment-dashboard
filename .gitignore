@@ -62,14 +62,18 @@ data/processed/
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# =========================
-# Tableau files
-# =========================
-# *.twb
-# *.twbx
+# Tableau workbook files
+*.twb
+*.twbx
 *.hyper
-# *.tds
-# *.tdsx
+*.tds
+*.tdsx
+
+# Allow Tableau screenshots
+!tableau/
+!tableau/*.png
+!tableau/*.jpg
+!tableau/*.jpeg
 
 # =========================
 # Reports / exports
