@@ -1,0 +1,92 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# macOS system files
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# VS Code / Cursor
+# =========================
+.vscode/
+.cursor/
+
+# =========================
+# SQLite database files
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+
+# =========================
+# Raw and processed data
+# =========================
+data/raw/
+data/processed/
+
+# Keep folder structure
+!data/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# =========================
+# Tableau files
+# =========================
+*.twb
+*.twbx
+*.hyper
+*.tds
+*.tdsx
+
+# =========================
+# Reports / exports
+# =========================
+reports/*.pdf
+reports/*.png
+reports/*.jpg
+reports/*.jpeg
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
