@@ -65,11 +65,11 @@ data/processed/
 # =========================
 # Tableau files
 # =========================
-*.twb
-*.twbx
+# *.twb
+# *.twbx
 *.hyper
-*.tds
-*.tdsx
+# *.tds
+# *.tdsx
 
 # =========================
 # Reports / exports
