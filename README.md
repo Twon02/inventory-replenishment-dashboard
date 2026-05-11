@@ -348,6 +348,7 @@ This matters because not every product deserves the same level of monitoring. A 
 ## Dashboard Preview
 
 ![Inventory Replenishment Dashboard](tableau/inventory_replenishment_dashboard.png)
+
 ---
 
 ## Dashboard Design
