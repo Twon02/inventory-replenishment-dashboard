@@ -155,6 +155,9 @@ inventory-replenishment-dashboard/
 ├── .gitignore
 └── README.md
 ```
+## Dashboard Preview
+
+![Inventory Replenishment Dashboard](tableau/dashboard_screenshot.png)
 
 ## KPI Definitions
 
